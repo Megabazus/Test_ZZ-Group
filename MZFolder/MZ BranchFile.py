@@ -4,8 +4,6 @@ import pandas as pd
 from sqlalchemy import create_engine
 
 
-####    Test branch versioning
-
 #####   Creating Database Tables ######
 DB_NAME = 'PythonToMysql'
 
